@@ -1,4 +1,8 @@
-React Card Game
+# React Card Game
+
+A simple card game made using ReactJS.
+
+![screenshot](screenshot.png)
 
 ### `yarn start`
 
