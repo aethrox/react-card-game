@@ -6,6 +6,7 @@ import Header from '../Header';
 export default function Game() {
   return (
     <div className="text-center">
+      {/* Header component */}
       <Header />
       {/* Cards component */}
       <Cards />
